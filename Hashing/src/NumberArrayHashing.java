@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberHashing {
+public class NumberArrayHashing {
     public static void main(String[] args) {
         // assumption is that the max element which we enter the main array is 6.
         // we will have the hash array of 12 size.
