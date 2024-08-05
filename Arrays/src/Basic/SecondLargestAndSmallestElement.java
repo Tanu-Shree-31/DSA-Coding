@@ -1,4 +1,4 @@
-/*
+package Basic;/*
     Problem statement
     You have been given an array ‘a’ of ‘n’ unique non-negative integers.
 
