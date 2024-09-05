@@ -1,4 +1,4 @@
-/*
+package Easy;/*
     Problem statement
     Given an array 'arr' containing 'n' elements, rotate this array left once and return it.
 
