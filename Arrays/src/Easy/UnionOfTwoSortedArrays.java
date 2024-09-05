@@ -1,4 +1,4 @@
-package Basic;/*
+package Easy;/*
     Problem statement
     Given two sorted arrays, ‘a’ and ‘b’, of size ‘n’ and ‘m’, respectively, return the union of the arrays.
 
