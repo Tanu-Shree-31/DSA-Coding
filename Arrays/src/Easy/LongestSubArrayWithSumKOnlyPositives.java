@@ -45,7 +45,7 @@ public class LongestSubArrayWithSumKOnlyPositives {
     }
 
     // Function for finding maximum and value pair
-    public static int lenOfLongSubarr (int arr[], int n, int k) {
+    public static int lenOfLongSubarr (int arr[], int k, int n) {
         Map<Long, Integer> preSumMap = new HashMap<>();
         long sum = 0;
         int maxLen = 0;
